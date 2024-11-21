@@ -61,6 +61,7 @@ class Autoload extends AutoloadConfig
      * @var array<string, string>
      */
     public $classmap = [];
+    
 
     /**
      * -------------------------------------------------------------------
@@ -92,3 +93,4 @@ class Autoload extends AutoloadConfig
      */
     public $helpers = [];
 }
+
